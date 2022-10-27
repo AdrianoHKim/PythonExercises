@@ -26,7 +26,6 @@ if __name__ == '__main__':
     print('Quantidade de galões de 3.6 litros: ', math.ceil((area * 1.1)/lat2))
     print('Valor a ser pago pelos galões de 3.6 litros: ', 'R$', (math.ceil((area * 1.1)/lat2)) * 25)
 
-
     print('= USANDO LATAS E GALÕES =')
 
     a1 = math.trunc((area * 1.1)/lat1)
@@ -36,4 +35,4 @@ if __name__ == '__main__':
 
     print('Quantidade de latas de 18 litros: ', a1)
     print('Quantidade de galôes de 3.6 litros: ', a3)
-    print('Valor total a ser pago pelas latas e galões: ', a4)
+    print('Valor total a ser pago pelas latas e/ou galões: ', a4)
