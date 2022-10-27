@@ -1,4 +1,4 @@
-""" 1.Faça um Programa que mostre a mensagem "Alo mundo" na tela.  """
+""" 1.Faça um Programa que mostre a mensagem "Alo mundo" na tela."""
 
 
 if __name__ == '__main__':
