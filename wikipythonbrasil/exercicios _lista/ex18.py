@@ -96,7 +96,7 @@ if __name__ == '__main__':
           f'votos, correspondendo a {"{:.1f}".format((votos.count(max(votos, key=votos.count))/len(votos)) * 100)}'
           f'% do total de votos.')
 
-    with open('teste.txt', 'w') as f:
+    with open('ex18_teste.txt', 'w') as f:
         for line in lines:
             f.write(line)
             f.write('\n')
