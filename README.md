@@ -1,2 +1,2 @@
-# PythonExercicios
-Exercicios e projetos python
+# PythonExercises
+My evolution and practicing in python.
