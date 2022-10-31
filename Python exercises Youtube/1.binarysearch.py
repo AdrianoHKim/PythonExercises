@@ -1,3 +1,5 @@
+# from https://www.youtube.com/watch?v=8ext9G7xspg , credits to Kylie Ying.
+
 import random
 import time
 

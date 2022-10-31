@@ -1,3 +1,4 @@
+# from https://www.youtube.com/watch?v=8ext9G7xspg , credits to Kylie Ying.
 # string concatenation (how to put strings together)
 # suppose we want to create a string that says "subscribe to _______"
 
