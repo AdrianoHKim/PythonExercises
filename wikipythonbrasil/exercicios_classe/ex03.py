@@ -26,11 +26,11 @@ class Retangulo:
 
     def calculaperimetro(self):
         perimetro = (int(self.comprimento) * 2) + (int(self.largura) * 2)
-        print('Serao necessarios {} metros lineares de pisos para os rodapes'.format(perimetro))
+        print('Serao necessarios {} metros lineares de pisos para os rodapes.'.format(perimetro))
 
 
 def main():
-    area1 = Retangulo(2, 2)
+    area1 = Retangulo(None, None)
 
     while True:
         area1.mudarlados()
