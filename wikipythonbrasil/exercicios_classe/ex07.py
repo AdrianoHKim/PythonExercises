@@ -10,5 +10,12 @@ calculada a qualquer momento."""
 
 
 class Tamagochi:
+    def __init__(self, nome, fome, saude, idade):
+        self.nome = nome
+        self.fome = fome
+        self.saude = saude
+        self.idade = idade
 
-    def __init__(self):
+    def alterarnome(self):
+        self.nome = input('Escolha o nome do seu pet: ')
+
