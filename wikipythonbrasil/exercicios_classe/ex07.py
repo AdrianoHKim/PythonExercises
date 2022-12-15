@@ -10,4 +10,5 @@ calculada a qualquer momento."""
 
 
 class Tamagochi:
-    
+
+    def __init__(self):
