@@ -8,7 +8,7 @@ Calcule e mostre a soma dos valores;
 Calcule e mostre a média dos valores;
 Calcule e mostre a quantidade de valores acima da média calculada;
 Calcule e mostre a quantidade de valores abaixo de sete;
-Encerre o programa com uma mensagem;"""
+Encerre o programa com uma mensagem"""
 
 
 if __name__ == '__main__':
