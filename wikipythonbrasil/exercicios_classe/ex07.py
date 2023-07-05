@@ -15,7 +15,3 @@ class Tamagochi:
         self.fome = fome
         self.saude = saude
         self.idade = idade
-
-    def alterarnome(self):
-        self.nome = input('Escolha o nome do seu pet: ')
-

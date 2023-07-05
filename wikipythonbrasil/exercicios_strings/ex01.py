@@ -5,6 +5,7 @@ Informe também se as duas strings possuem o mesmo comprimento e são iguais ou 
 
 
 if __name__ == '__main__':
+    print('Hello, World!')  # para nao dar azar
     print('Compara duas strings')
 
     str1 = str(input('Digite a primeira string: '))

@@ -25,7 +25,7 @@ class BombaCombustivel:
 
     def alterarcombustivel(self):
         print('Combustivel atual: {}'.format(self.tipocombustivel))
-        altcomb = input("Deseja alterar o combustivel? [s/n]").lower()
+        altcomb = input("Deseja alterar o combustivel? [s/n]:").lower()
         if altcomb == 's':
             novocomb = input('Digite o tipo de combustivel: ')
             self.tipocombustivel = novocomb
